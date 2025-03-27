@@ -70,10 +70,6 @@
 
 ---
 
-💡 **"Turning ideas into reality with code & AI"** 🚀
-
----
-
 
 <!---
 hamza/hamza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
