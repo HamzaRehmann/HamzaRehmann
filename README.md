@@ -16,6 +16,7 @@
 🔹 Passionate about **Computer Vision, AI in Healthcare, and Automation**  
 
 ---
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaRehmann&langs_count=10&theme=tokyonight)
 
 ### 🛠️ Tech Stack  
 
