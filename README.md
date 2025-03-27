@@ -8,7 +8,7 @@
 
 ### 🚀 About Me  
 
-🔹 **B.Sc. in Information Engineering (Applied Computer Science)**  
+🔹 **B.Sc. in Applied Computer Science**  
 🔹 **Machine Learning & Software Engineering Enthusiast**  
 🔹 Worked on **AI-powered medical applications** (Breast Cancer Detection with YOLO)  
 🔹 Built **NLP-based SQL query generation** for medical databases  
