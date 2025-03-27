@@ -13,7 +13,6 @@
 🔹 **Machine Learning & Software Engineering Enthusiast**  
 🔹 Worked on **AI-powered medical applications** (Breast Cancer Detection with YOLO)  
 🔹 Built **NLP-based SQL query generation** for medical databases  
-🔹 Developed **web applications** using **React.js, PHP, Java**  
 🔹 Passionate about **Computer Vision, AI in Healthcare, and Automation**  
 
 ---
