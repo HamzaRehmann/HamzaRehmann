@@ -1,7 +1,8 @@
 <h1 align="center"> Hey there! I'm Hamza 👋 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00C1FF&center=true&vCenter=true&width=500&lines=Passionate+about+AI%2C+Automation+%26+Tech+Innovation;Machine+Learning+%7C+Software+Engineering;Data+Science+%7C+AI+%7C+Web+Development" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=00C1FF&center=true&vCenter=true&width=700&lines=Passionate+about+AI%2C+Automation+%26+Tech+Innovation;Machine+Learning+%7C+Software+Engineering;Data+Science+%7C+AI+%7C+Web+Development" alt="Typing SVG" />
+  
 </p>
 
 ---
@@ -19,54 +20,32 @@
 
 ### 🛠️ Tech Stack  
 
-import { FaPython, FaJava, FaJs, FaReact, FaGitAlt, FaDocker } from "react-icons/fa";
-import { SiC, SiCplusplus, SiPhp, SiMysql, SiPostgresql, SiNumpy, SiPandas, SiScikitlearn, SiOpencv, SiJupyter, SiYolo } from "react-icons/si";
+**💻 Languages**:  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) 
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) 
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white) 
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 
-export default function TechStack() {
-  return (
-    <div className="text-white">
-      <h2 className="text-2xl font-bold mb-4">⚡ Tech Stack</h2>
+## **📚 Frameworks & Libraries**  
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)  
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)  
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white)  
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)  
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)  
+![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat&logo=opencv&logoColor=black)  
 
-      {/* Languages Section */}
-      <div>
-        <h3 className="text-xl font-semibold mb-2">🖥️ Languages:</h3>
-        <div className="flex flex-wrap gap-4">
-          <span className="flex items-center gap-2 bg-gray-800 px-2 py-1 rounded"><FaPython /> Python</span>
-          <span className="flex items-center gap-2 bg-gray-800 px-2 py-1 rounded"><SiC /> C</span>
-          <span className="flex items-center gap-2 bg-gray-800 px-2 py-1 rounded"><SiCplusplus /> C++</span>
-          <span className="flex items-center gap-2 bg-gray-800 px-2 py-1 rounded"><FaJava /> Java</span>
-          <span className="flex items-center gap-2 bg-gray-800 px-2 py-1 rounded"><FaJs /> JavaScript</span>
-          <span className="flex items-center gap-2 bg-gray-800 px-2 py-1 rounded"><SiPhp /> PHP</span>
-          <span className="flex items-center gap-2 bg-gray-800 px-2 py-1 rounded"><SiMysql /> SQL</span>
-        </div>
-      </div>
-
-      {/* Frameworks & Libraries Section */}
-      <div className="mt-6">
-        <h3 className="text-xl font-semibold mb-2">📚 Frameworks & Libraries:</h3>
-        <div className="flex flex-wrap gap-4">
-          <span className="flex items-center gap-2 bg-gray-800 px-2 py-1 rounded"><FaReact /> React</span>
-          <span className="flex items-center gap-2 bg-gray-800 px-2 py-1 rounded"><SiPandas /> Pandas</span>
-          <span className="flex items-center gap-2 bg-gray-800 px-2 py-1 rounded"><SiNumpy /> NumPy</span>
-          <span className="flex items-center gap-2 bg-gray-800 px-2 py-1 rounded"><SiScikitlearn /> Scikit-learn</span>
-          <span className="flex items-center gap-2 bg-gray-800 px-2 py-1 rounded"><SiOpencv /> OpenCV</span>
-          <span className="flex items-center gap-2 bg-gray-800 px-2 py-1 rounded"><SiYolo /> YOLO</span>
-        </div>
-      </div>
-
-      {/* Developer Tools Section */}
-      <div className="mt-6">
-        <h3 className="text-xl font-semibold mb-2">🛠️ Developer Tools:</h3>
-        <div className="flex flex-wrap gap-4">
-          <span className="flex items-center gap-2 bg-gray-800 px-2 py-1 rounded"><FaGitAlt /> Git</span>
-          <span className="flex items-center gap-2 bg-gray-800 px-2 py-1 rounded"><FaDocker /> Docker</span>
-          <span className="flex items-center gap-2 bg-gray-800 px-2 py-1 rounded"><SiPostgresql /> pgAdmin</span>
-          <span className="flex items-center gap-2 bg-gray-800 px-2 py-1 rounded"><SiJupyter /> Jupyter</span>
-        </div>
-      </div>
-    </div>
-  );
-}
+## **🛠️ Developer Tools**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)  
+![pgAdmin](https://img.shields.io/badge/pgAdmin-316192?style=flat&logo=postgresql&logoColor=white)  
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)  
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)  
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white)  
+![Apache Tomcat](https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=flat&logo=apachetomcat&logoColor=black)  
 
 ---
 
